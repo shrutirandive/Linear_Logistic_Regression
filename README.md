@@ -1,4 +1,4 @@
-# ML_Linear_regression
+Linear regression
 
 Linear Regression with one variable : AREA
 ![linear_equation](https://user-images.githubusercontent.com/54211989/146666855-de55ab53-2ddf-4c68-9ffe-ca62f80551a3.png)
